@@ -90,7 +90,7 @@ export default function About({ isDark }: AboutProps) {
   {/* Profile Image */}
   <div className="absolute inset-[14px] rounded-full overflow-hidden z-20">
     <Image
-      src="/Ronen3.png"
+      src="/Ronen_New-modified.png"
       alt="Ronen Shilchikov"
       className="w-full h-full object-cover"
     />
